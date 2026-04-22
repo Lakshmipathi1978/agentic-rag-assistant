@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-text-splitters
+chromadb
+pypdf
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+python-multipart
+python-dotenv
+groq
